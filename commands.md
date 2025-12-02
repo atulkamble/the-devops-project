@@ -77,5 +77,4 @@ kubectl apply -f service-minikube.yaml
 minikube tunnel (keep running)
 minikube stop 
 minikube delete 
-
 ```

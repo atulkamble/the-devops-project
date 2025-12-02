@@ -5,7 +5,7 @@
 https://github.com/atulkamble/the-devops-project
 
 // prerequisites 
-git, docker, k8s, aws cli, python 
+git, docker or docker desktop, k8s or minikube, aws cli, python, tree
 
 // manually run 
 
@@ -72,5 +72,6 @@ kubectl apply -f service-minikube.yaml
 
 minikube tunnel (keep running)
 minikube stop 
-minikube delete
+minikube delete 
+
 ```
